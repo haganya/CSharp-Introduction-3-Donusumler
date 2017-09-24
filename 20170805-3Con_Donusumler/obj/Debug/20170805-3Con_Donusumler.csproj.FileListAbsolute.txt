@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-3Con_Donusumler\20170805-3Con_Donusumler\bin\Debug\20170805-3Con_Donusumler.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-3Con_Donusumler\20170805-3Con_Donusumler\bin\Debug\20170805-3Con_Donusumler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-3Con_Donusumler\20170805-3Con_Donusumler\bin\Debug\20170805-3Con_Donusumler.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-3Con_Donusumler\20170805-3Con_Donusumler\obj\Debug\20170805-3Con_Donusumler.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-3Con_Donusumler\20170805-3Con_Donusumler\obj\Debug\20170805-3Con_Donusumler.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805-3Con_Donusumler\20170805-3Con_Donusumler\obj\Debug\20170805-3Con_Donusumler.pdb
